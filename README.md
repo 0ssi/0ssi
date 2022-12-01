@@ -32,4 +32,5 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ssi&layout=compact" />
+<img align="Left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=0ssi&" alt="0ssi" />
 
